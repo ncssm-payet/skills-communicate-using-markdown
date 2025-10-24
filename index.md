@@ -11,3 +11,7 @@
 var myVar = "Hello, world!";
 console.log(myVar);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
